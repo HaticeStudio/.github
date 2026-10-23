@@ -42,6 +42,21 @@ Actual screens from the deployed preview, using fictional data. The task board s
 
 </details>
 
+## Knowledge Desk preview
+
+Explore [Knowledge Desk](https://crm.haticestudio.com/knowledge/) to manage a project's text documents, find matching evidence, and inspect exact source excerpts. Access requires an existing account, explicit project access and retrieval permissions.
+
+The preview uses fictional employee and support policies. It runs in **local extractive mode** with keyword-based retrieval; it does not use an LLM, embeddings or semantic reasoning. When matching evidence is insufficient, it says so. Documents and query results are restricted to the authorized project.
+
+![Knowledge Desk document question and exact source citation](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/knowledge-citation.jpg)
+
+<details>
+<summary>When matching evidence is insufficient</summary>
+
+![Knowledge Desk explicitly reports insufficient evidence](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/knowledge-abstention.jpg)
+
+</details>
+
 ## Public work & confidentiality
 
 Public repositories are shared individually as they become ready for review. Each repository's README describes its current scope and status.
