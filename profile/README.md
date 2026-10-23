@@ -27,6 +27,21 @@ Explore our [Client Workspace preview](https://crm.haticestudio.com/workspace/) 
 
 The preview uses fictional demonstration data. Planned milestones and deliverables are clearly labelled; they are not completed client work. AI/RAG provider connections, billing, and other external integrations are outside this preview's current scope.
 
+### Preview screens
+
+Actual screens from the deployed preview, using fictional data. The task board saves changes; milestones and deliverables shown as Planned remain illustrative.
+
+![Client Workspace project overview](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/workspace-overview.jpg)
+
+<details>
+<summary>Task board and project progress</summary>
+
+![Persistent project task board](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/workspace-tasks.jpg)
+
+![Planned milestones and deliverables](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/workspace-progress.jpg)
+
+</details>
+
 ## Public work & confidentiality
 
 Public repositories are shared individually as they become ready for review. Each repository's README describes its current scope and status.
