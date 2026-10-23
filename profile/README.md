@@ -19,6 +19,14 @@ We start by understanding the business problem, clarifying requirements, and def
 
 We welcome conversations about new products, existing systems, and focused integration projects.
 
+## Client Workspace preview
+
+Explore our [Client Workspace preview](https://crm.haticestudio.com/workspace/) for a shared view of project goals, tasks, milestones, deliverables, and feedback.
+
+**Access is by invitation.** An existing account must also be granted access to a specific project. To arrange access or a walkthrough, contact us through the channel where we are discussing your project.
+
+The preview uses fictional demonstration data. Planned milestones and deliverables are clearly labelled; they are not completed client work. AI/RAG provider connections, billing, and other external integrations are outside this preview's current scope.
+
 ## Public work & confidentiality
 
 Public repositories are shared individually as they become ready for review. Each repository's README describes its current scope and status.
