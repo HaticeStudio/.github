@@ -57,6 +57,21 @@ The preview uses fictional employee and support policies. It runs in **local ext
 
 </details>
 
+## Parts Catalog preview
+
+Explore [Parts Catalog](https://crm.haticestudio.com/parts/) to import a small CSV, inspect validation reports, browse normalized parts and download an authorized catalog export. Access requires an existing account, explicit project access and catalog permissions.
+
+The preview uses fictional brands, parts and vehicle fitment data. Strict validation keeps the catalog unchanged when a row is rejected; exact prices retain their original currencies. Project editors can import, while viewers can inspect data and reports. This preview does not scrape suppliers, connect to a licensed parts database, perform VIN lookup or convert currencies.
+
+![Parts Catalog normalized fictional parts](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/parts-catalog.jpg)
+
+<details>
+<summary>Traceable validation report</summary>
+
+![Parts Catalog strict validation and safe rejection reasons](https://raw.githubusercontent.com/HaticeStudio/.github/master/profile/assets/parts-report.jpg)
+
+</details>
+
 ## Public work & confidentiality
 
 Public repositories are shared individually as they become ready for review. Each repository's README describes its current scope and status.
